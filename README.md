@@ -1,5 +1,7 @@
 # Graylog-Setup
-Graylog2 logging server setup script.
+Graylog2 logging server setup script. 
+More information about this script and what its for can be found in this blogpost:
+https://thevivi.net/2018/03/23/attack-infrastructure-logging-part-1-logging-server-setup/
 
 ### Usage:
 Change the following settings at the top of the script before running it:
